@@ -2,11 +2,12 @@
 
 Quick script to reveal the best combination of items to purchase given a certain budget
 
+*WORK IN PROGRESS*
 
 ### Output
 
 ```
-atlas$ ruby purchase.rb 
+atlas$ ruby run.rb 
 
 Budget: $30.0
 
